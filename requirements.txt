@@ -1,0 +1,5 @@
+streamlit
+Pillow
+vertexai
+python-dotenv
+google-cloud-aiplatform
