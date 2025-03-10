@@ -14,11 +14,6 @@ Before you begin, make sure you have the following prerequisites in place:
 - Python 3.10 or higher is installed on your machine.
 - Conda is installed for managing virtual environments.
 
-## Clone This Repository
-```bash
-git clone https://github.com/heispv/gemini_invoice_reader.git
-```
-
 ## Setting Up Google Cloud Console
 
 1. Visit the [Google Cloud Console](https://console.cloud.google.com/) and log in with your Google account.
